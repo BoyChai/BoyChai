@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **BoyChai**.
+
+#### About Me
+
+- 🔭 I am currently using Golang 
+- 🌱 I’m currently learning Kubernetes、Python、JavaScript
+- 📫 To reach me 1972567225@qq.com
+- 💡 Blog: https://blog.boychai.xyz
