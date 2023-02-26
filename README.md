@@ -20,6 +20,6 @@ I'm **BoyChai**.
 #### About Me
 
 - 🔭 I am currently using Golang 
-- 🌱 I’m currently learning Kubernetes、Vue、JavaScript
+- 🌱 I’m currently learning Kubernetes、Vue、Java
 - 📫 To reach me 1972567225@qq.com
 - 💡 Blog: https://blog.boychai.xyz
