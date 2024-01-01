@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/boychai">
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=boychai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychai&hide_border=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychai&hide_border=true&layout=compact" />
 </a>
 </p>
