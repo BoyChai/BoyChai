@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Contact me 🤝
 
-<a href="https://t.me/BoyChai040903">![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram)</a> <a href="mailto:boychai.903@gmail.com">![Twitter](https://img.shields.io/badge/mail-grey?style=for-the-badge&logo=gmail)</a> <a href="https://twitter.com/BoyChai58408672">![Twitter](https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=x)</a>  <a href="https://blog.boychai.com">![Twitter](https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blog)</a> 
+<a href="https://t.me/BoyChai040903">![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram)</a> <a href="mailto:boychai.903@gmail.com">![Twitter](https://img.shields.io/badge/mail-grey?style=for-the-badge&logo=gmail)</a> <a href="https://twitter.com/BoyChai58408672">![Twitter](https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=x)</a>  <a href="https://blog.boychai.xyz">![Twitter](https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blog)</a> 
 
 ### Languages & Tools 🛠
 
