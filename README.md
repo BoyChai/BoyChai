@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I love open source development.
 - 🌱 I’m currently learning K8s、GoLang、CI/CD technology.
-- 💻 I'm trying to write JAVA.
+- 💻 I'm trying to write Solidity.
 
 ### Contact me 🤝
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Harbor](https://img.shields.io/badge/-Harbor-05122A?style=flat&logo=harbor)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![Tekton](https://img.shields.io/badge/-Tekton-05122A?style=flat&logo=tekton)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
