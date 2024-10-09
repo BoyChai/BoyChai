@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Html](https://img.shields.io/badge/-html-05122A?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-css-05122A?style=flat&logo=css)&nbsp;
+![Html](https://img.shields.io/badge/-html-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-css-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue)&nbsp;
+![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
