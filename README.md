@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I love open source development.
 - 🌱 I’m currently learning K8s、GoLang、CI/CD technology.
-- 🤖 I'm trying to write Transformers.
+- 🤖 I'm trying to write Re、Pwn、Transformers.
 
 ### Contact me 🤝
 
